@@ -43,7 +43,7 @@
  	 	 	"editMotto": {
  	 	 	 	"modal": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Por favor, insira seu lema de sua gangue",
+ 	 	 	 	 	 	"trans": "Por favor, insira o lema de sua gangue",
  	 	 	 	 	 	"eng": "Please enter your gang motto"
  	 	 	 	 	}
  	 	 	 	},
@@ -75,14 +75,14 @@
  	 	 	 	"eng": "members"
  	 	 	},
  	 	 	"occupationPoint": {
- 	 	 	 	"trans": "Controle em shangri-la",
+ 	 	 	 	"trans": "Controle em Shangri-la",
  	 	 	 	"eng": "Control over Shangri-la"
  	 	 	},
  	 	 	"nextUpkeepDate": {
  	 	 	 	"vars": [
  	 	 	 	 	"nextUpkeepDate"
  	 	 	 	],
- 	 	 	 	"trans": "Data da proxima manutenção: ${nextUpkeepDate}",
+ 	 	 	 	"trans": "Data da próxima manutenção: ${nextUpkeepDate}",
  	 	 	 	"eng": "Next upkeep Date: ${nextUpkeepDate}"
  	 	 	},
  	 	 	"insufficientError": {
@@ -99,7 +99,7 @@
  	 	 	},
  	 	 	"occupation": {
  	 	 	 	"noClan": {
- 	 	 	 	 	"trans": "Nenhuma gangue ocupou está área ainda",
+ 	 	 	 	 	"trans": "Nenhuma gangue ocupou esta área ainda",
  	 	 	 	 	"eng": "No gang has occupied this area yet"
  	 	 	 	}
  	 	 	},
@@ -122,16 +122,16 @@
  	 	 	"colors": {
  	 	 	 	"win": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Descriptografia bem sucedida",
+ 	 	 	 	 	 	"trans": "Descriptografado com sucesso",
  	 	 	 	 	 	"eng": "Decryption successful"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "em processamento",
+ 	 	 	 	 	 	"trans": "processando",
  	 	 	 	 	 	"eng": "processing"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Você encontrou uma caixa de saque bloqueada com teclado de cor, você deve ser capaz de desbloqueá-lo com a seqüência correta de cores.",
+ 	 	 	 	 	"trans": "Você encontrou uma caixa de saque bloqueada com teclado colorido, você deve ser capaz de desbloqueá-la com a seqüência correta de cores.",
  	 	 	 	 	"eng": "You found a locked loot box with color keypad, you should be able to unlock it with the correct sequence of colors."
  	 	 	 	},
  	 	 	 	"progress": {
@@ -141,7 +141,7 @@
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"countdownSubtitle": {
- 	 	 	 	 	"trans": "segundas",
+ 	 	 	 	 	"trans": "segundos",
  	 	 	 	 	"eng": "seconds"
  	 	 	 	},
  	 	 	 	"colorBox": {
@@ -168,7 +168,7 @@
  	 	},
  	 	"supportUkraine": {
  	 	 	"description": {
- 	 	 	 	"trans": "Pessoas da Ucrânia, Rússia e todo o mundo estão sofrendo porque a ambição de um homem. \\ N Faça amor exploração, não guerra.",
+ 	 	 	 	"trans": "Pessoas da Ucrânia, Rússia e todo o mundo estão sofrendo por conta da ambição de um homem. \\n Faça amor explorativo, não guerra.",
  	 	 	 	"eng": "People of Ukraine, Russia and the whole world are suffering because one man's ambition.\\n Make love exploit, not war."
  	 	 	}
  	 	},
@@ -225,11 +225,11 @@
  	 	 	},
  	 	 	"modal": {
  	 	 	 	"selectDepositItem": {
- 	 	 	 	 	"trans": "Quantos você gostaria de colocar no cofre?",
+ 	 	 	 	 	"trans": "Quanto você gostaria de colocar no cofre?",
  	 	 	 	 	"eng": "How many would you like to put in the vault?"
  	 	 	 	},
  	 	 	 	"selectWithdrawItem": {
- 	 	 	 	 	"trans": "Quantos você gostaria de se retirar do banco?",
+ 	 	 	 	 	"trans": "Quanto você gostaria de retirar do banco?",
  	 	 	 	 	"eng": "How many would you like to withdraw from the bank?"
  	 	 	 	},
  	 	 	 	"selectDeposit": {
@@ -242,7 +242,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"noBalance": {
- 	 	 	 	"trans": "Não é possivel retirar, sem saldo suficiente.",
+ 	 	 	 	"trans": "Não é possivel retirar quando não tem saldo.",
  	 	 	 	"eng": "You can't withdraw when you have no balance."
  	 	 	}
  	 	},
@@ -270,7 +270,7 @@
  	 	},
  	 	"generalCaptcha": {
  	 	 	"story": {
- 	 	 	 	"trans": "Encontrou um antigo cofre trancado, parece haver um post-it com algum texto escrito nele.",
+ 	 	 	 	"trans": "Você econtrou um antigo cofre trancado, parece haver um post-it com algum texto escrito nele.",
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
@@ -379,20 +379,20 @@
  	 	"equipment": {
  	 	 	"lowPrintLevelTip": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Baixa classificação de impressão",
+ 	 	 	 	 	"trans": "Baixo nível de impressão",
  	 	 	 	 	"eng": "Low Printing Rank"
  	 	 	 	}
  	 	 	},
  	 	 	"lowPrintLevelTip2": {
- 	 	 	 	"trans": "Aumente sua classificação de impressão para criar armas mais poderosas, imprimindo mais caches",
+ 	 	 	 	"trans": "Aumente seu nível de impressão para criar armas mais poderosas, imprimindo mais cachês",
  	 	 	 	"eng": "Increase your Printing Rank to create more powerful weapons by printing more caches"
  	 	 	},
  	 	 	"quickSlots": {
- 	 	 	 	"trans": "Ranhuras rápidas",
+ 	 	 	 	"trans": "Slots rápidos",
  	 	 	 	"eng": "Quick Slots"
  	 	 	},
  	 	 	"equipped": {
- 	 	 	 	"trans": "Equipada",
+ 	 	 	 	"trans": "Equipado",
  	 	 	 	"eng": "Equipped"
  	 	 	}
  	 	},
@@ -405,7 +405,7 @@
  	 	 	},
  	 	 	"bindModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Selecione um item utilizável para ligar a um slot rápido",
+ 	 	 	 	 	"trans": "Selecione um item utilizável para por em um slot rápido",
  	 	 	 	 	"eng": "Select a usable item to bind to a quick slot"
  	 	 	 	}
  	 	 	}
@@ -451,11 +451,11 @@
  	 	 	 	 	 	"timeSkipMinutes",
  	 	 	 	 	 	"timeSkipCost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Global Skip (${timeSkipMinutes} min, custa ${timeSkipCost} unidades)",
+ 	 	 	 	 	"trans": "Global Skip (${timeSkipMinutes} Min, Custa ${timeSkipCost} unidades)",
  	 	 	 	 	"eng": "Global Skip (${timeSkipMinutes} Min, Cost ${timeSkipCost} Units)"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "O Avanço global permite que você avance o tempo de espera AFK e termine instantaneamente. \n     Este efeito será aplicado a todos os jogadores realizando tarefa AFK",
+ 	 	 	 	 	"trans": "O Avanço global permite que você avance o tempo de espera AFK e termine instantaneamente. \r\n     Este efeito será aplicado a todos os jogadores realizando tarefas AFK",
  	 	 	 	 	"eng": "Global Skip allow you to skip the AFK waiting time, and finish it instantly.\r\n    this effect will be applied to all player performing AFK task"
  	 	 	 	}
  	 	 	},
@@ -464,7 +464,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"itemSkipMinutes"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Avanço de tempo livre (${itemSkipMinutes} min)",
+ 	 	 	 	 	"trans": "Avanço de tempo livre (${itemSkipMinutes} Min)",
  	 	 	 	 	"eng": "Free time skip (${itemSkipMinutes} Min)"
  	 	 	 	},
  	 	 	 	"description": {
@@ -482,7 +482,7 @@
  	 	 	 	 	"eng": "Confirm use skip?"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Avanço global vai pular o tempo de espera para todos os jogadores realizando tarefa AFK",
+ 	 	 	 	 	"trans": "Avanço global vai pular o tempo de espera para todos os jogadores realizando tarefas AFK",
  	 	 	 	 	"eng": "Global Skip will skip the waiting time for all players performing AFK task"
  	 	 	 	}
  	 	 	},
@@ -500,7 +500,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "O avanço global permite que você pule o tempo de espera AFK e termine instantaneamente. \n     Este efeito será aplicado a todos os jogadores realizando tarefas AFK",
+ 	 	 	 	"trans": "O avanço global permite que você pule o tempo de espera AFK e termine instantaneamente. \r\n     Este efeito será aplicado a todos os jogadores realizando tarefas AFK",
  	 	 	 	"eng": "Global Skip allow you to skip the AFK waiting time, and finish it instantly.\r\n    this effect will be applied to all players performing an AFK task"
  	 	 	}
  	 	},
